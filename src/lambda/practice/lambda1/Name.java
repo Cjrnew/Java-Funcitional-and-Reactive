@@ -1,4 +1,4 @@
-package lambda1;
+package lambda.practice.lambda1;
 
 @FunctionalInterface
 public interface Name {

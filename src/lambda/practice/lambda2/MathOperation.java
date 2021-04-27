@@ -1,4 +1,4 @@
-package lambda2;
+package lambda.practice.lambda2;
 
 public interface MathOperation {
 	

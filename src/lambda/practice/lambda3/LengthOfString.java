@@ -1,4 +1,4 @@
-package lambda3;
+package lambda.practice.lambda3;
 
 public interface LengthOfString {
 	

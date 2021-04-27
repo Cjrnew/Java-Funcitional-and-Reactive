@@ -1,4 +1,4 @@
-package lambda1;
+package lambda.practice.lambda1;
 
 public class LambdaPractice1 {
 	

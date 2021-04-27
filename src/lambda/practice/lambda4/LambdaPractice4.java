@@ -1,6 +1,6 @@
-package lambda4;
+package lambda.practice.lambda4;
 
-import lambda3.LengthOfString;
+import lambda.practice.lambda3.LengthOfString;
 
 public class LambdaPractice4 {
 	
